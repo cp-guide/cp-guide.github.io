@@ -1,4 +1,4 @@
 # CP Guide
 Your Competitive Programming Guide
 
-Just Click [**Here**](https://cp-guide.github.io)!
+Just Click **<a href="http://cp-guide.github.io" target="_blank">Here</a>**)!
